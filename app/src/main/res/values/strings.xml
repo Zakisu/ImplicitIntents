@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">ImplicitIntents</string>
+    <string name="editWebsite">https://zaki-sulistya.com/</string> <string name="button_uri">Open Website</string>
+    <string name="buttonWebsite">Open Website</string>
+    <string name="editLocation">Golden Gate Bridge</string> <string name="button_loc">Open Location</string>
+    <string name="buttonLocation">Open Location</string>
+    <string name="editShareText">\'Twas brillig and the slithy toves</string> <string name="button_share">Share This Text</string>
+    <string name="buttonShareText">Share This Text</string>
+</resources>
